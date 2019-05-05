@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "Happy Birthday Anchal!",
   "short_name": "Anchal",
   "icons": [
     {
@@ -38,13 +38,13 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "index.html",
+  "start_url": "https://aamerrushnaiwala.github.io/MyBFF/",
   "scope": ".",
   "display": "standalone",
   "orientation": "portrait-primary",
   "background_color": "#DB2564",
   "theme_color": "#DB2564",
-  "description": "",
+  "description": "Happy Birthday Anchal!",
   "dir": "ltr",
   "lang": "en-US"
 }
